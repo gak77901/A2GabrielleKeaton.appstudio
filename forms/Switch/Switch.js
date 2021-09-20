@@ -1,4 +1,4 @@
-/*
+
 //Declaring Variables for User to input Info into.
 let firstName = prompt("Enter your first name")
 let state = prompt("Enter your state (NE or FL)")
@@ -22,4 +22,3 @@ case "FL":
     console.log(`${firstName}, ${message[3]}`)
 }
 
-*/

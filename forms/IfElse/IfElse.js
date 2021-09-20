@@ -1,4 +1,4 @@
-
+/*
 //Declaring Variables for User to input Info into.
 let firstName = prompt("Enter your first name")
 let state = prompt("Enter your state (NE or FL)")
@@ -17,4 +17,4 @@ else if (state = "FL" && temperature >= 32 && temperature <= 50)
   console.log(`${firstName}, ${message[2]}`)
 else if (state = "FL" && temperature > 50 && temperature <= 70)
   console.log(`${firstName}, ${message[3]}`)
-  
+*/
